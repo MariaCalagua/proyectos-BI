@@ -62,6 +62,8 @@ El modelo está basado en un esquema estrella, compuesto por:
 ![Dashboard Principal](Dasboard2.png)
 
 
+
+
 ##kpis
 ![Dashboard Principal](Dasboards1.png)
 
