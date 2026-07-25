@@ -63,7 +63,7 @@ El modelo está basado en un esquema estrella, compuesto por:
 
 
 ##kpis
-![Dashboard Principal](Dasboard1.png)
+![Dashboard Principal](Dasboards1.png)
 
 ## Aprendizajes
 
