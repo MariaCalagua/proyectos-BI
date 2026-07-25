@@ -59,11 +59,11 @@ El modelo está basado en un esquema estrella, compuesto por:
 ## Capturas del Dashboard
 
 ##ventas
-![Dashboard Principal](dashboard2.png)
+![Dashboard Principal](Dasboard2.png)
 Dasboard2.png
 
 ##kpis
-![Dashboard Principal](dashboard1.png)
+![Dashboard Principal](Dasboard1.png)
 
 ## Aprendizajes
 
