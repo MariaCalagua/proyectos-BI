@@ -1,9 +1,23 @@
 # proyectos-BI
-# 📊 Dashboard de Ventas - Power BI
+# 📊 BI Projects - Analysis Services
 
 ## Descripción
 
-Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI para el análisis de ventas. El objetivo es transformar datos en información útil para apoyar la toma de decisiones mediante indicadores clave de desempeño (KPIs) y visualizaciones dinámicas.
+Proyecto de Business Intelligence desarrollado con tecnologías Microsoft BI, integrando un modelo de datos dimensional, procesos ETL, Analysis Services Tabular y Power BI para el análisis y visualización de indicadores empresariales.
+
+## Arquitectura de la solución
+
+Flujo de datos:
+
+SQL Server  
+⬇️  
+Proceso ETL  
+⬇️  
+Data Warehouse (Modelo Estrella)  
+⬇️  
+Analysis Services Tabular  
+⬇️  
+Power BI Dashboard
 
 ## Objetivos
 
@@ -14,12 +28,44 @@ Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI 
 
 ## Tecnologías utilizadas
 
-* Microsoft Power BI
-* Power Query
-* DAX
-* SQL Server
-* Modelo Estrella (Star Schema)
+- SQL Server
+- Data Warehouse
+- Analysis Services Tabular (SSAS)
+- Power BI
+- DAX
+- Power Query
+- Visual Studio
+- GitHub
 
+## Componentes del proyecto
+
+### 🗄️ Data Warehouse
+
+- Diseño de modelo dimensional.
+- Tablas de hechos y dimensiones.
+- Carga de información mediante procedimientos almacenados.
+- Transformación y limpieza de datos.
+
+### 📈 Analysis Services Tabular
+
+Implementación de un modelo semántico para análisis:
+
+- Creación de relaciones entre dimensiones y hechos.
+- Medidas DAX.
+- KPIs.
+- Cálculos de indicadores.
+- Optimización del modelo.
+
+ ### 📊 Power BI
+
+Dashboard interactivo con:
+
+- Indicadores de ventas.
+- Análisis por producto.
+- Análisis temporal.
+- Segmentación de información.
+- Visualización de KPIs.
+- 
 ## Indicadores (KPIs)
 
 * Total de Ventas
@@ -40,29 +86,13 @@ Este proyecto consiste en el desarrollo de un dashboard interactivo en Power BI 
 * Matriz de datos
 * Mapa (si aplica)
 
-## Estructura del modelo de datos
-
-El modelo está basado en un esquema estrella, compuesto por:
-
-**Tablas de dimensiones**
-
-* DimFecha
-* DimProducto
-* DimCliente
-* DimTerritorio
-* DimEmpleado
-
-**Tabla de hechos**
-
-* FactSales
-
 ## Capturas del Dashboard
+
+##Modelo tabular
+![Modelo Tabular](SQL Server Analysis Services.png)
 
 ##ventas
 ![Dashboard Principal](Dasboard2.png)
-
-
-
 
 ##kpis
 ![Dashboard Principal](Dasboards1.png)
@@ -81,7 +111,7 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos de:
 
 **María**
 
-Analista de Sistemas | Data Analyst | Analista Programador
+Analista de Sistemas | Data Analyst | Analista Programador | Power BI | Tableau
 
 LinkedIn: www.linkedin.com/in/maria-isabel-calagua-egusquiza
 
