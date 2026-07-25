@@ -89,7 +89,7 @@ Dashboard interactivo con:
 ## Capturas del Dashboard
 
 ##Modelo tabular
-![Modelo Tabular](SQL Server Analysis Services.png)
+![Modelo Tabular](SQLServerAnalysisServices.png).
 
 ##ventas
 ![Dashboard Principal](Dasboard2.png)
