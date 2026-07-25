@@ -81,7 +81,7 @@ Durante el desarrollo de este proyecto se aplicaron conocimientos de:
 
 **María**
 
-Analista de Datos | Data Engineer
+Analista de Sistemas | Data Analyst | Analista Programador
 
 LinkedIn: www.linkedin.com/in/maria-isabel-calagua-egusquiza
 
