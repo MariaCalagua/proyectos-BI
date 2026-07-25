@@ -58,7 +58,11 @@ El modelo está basado en un esquema estrella, compuesto por:
 
 ## Capturas del Dashboard
 
-Agregar imágenes del dashboard en la carpeta **/images** y referenciarlas aquí.
+#ventas
+Dasboard2.png
+
+#kpis
+Dasboard1.png
 
 ## Aprendizajes
 
