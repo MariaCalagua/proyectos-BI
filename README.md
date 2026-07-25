@@ -60,7 +60,7 @@ El modelo está basado en un esquema estrella, compuesto por:
 
 ##ventas
 ![Dashboard Principal](Dasboard2.png)
-Dasboard2.png
+
 
 ##kpis
 ![Dashboard Principal](Dasboard1.png)
